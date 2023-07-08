@@ -2,7 +2,7 @@
 
 # :robot: Teardroid v4
 
-![Screenshot](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/IMG-20220122-WA0000_RdKN5Rv3U.jpg)
+![Screenshot](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/main/img/IMG-20220122-WA0000_RdKN5Rv3U.jpg)
 
 🇮🇳 It's easy to use android botnet work without port forwarding, vps and android studio
 
