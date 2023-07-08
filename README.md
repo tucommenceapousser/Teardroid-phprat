@@ -135,15 +135,15 @@ $ python Teardroid.py -b your_app_name
 
 ### Screenshot
 
-- ![Builder](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/Builder_3oDdS0Tr7.png)
+- ![Builder](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/main/img/Builder_3oDdS0Tr7.png)
 
-- ![Overview](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/2022-01-27_22-29_gYkI6tIvGmG.png)
+- ![Overview](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/main/img/2022-01-27_22-29_gYkI6tIvGmG.png)
 
-- ![TaskManager](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/2022-01-27_22-49_RakvqeLWG.jpeg)
+- ![TaskManager](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/main/img/2022-01-27_22-49_RakvqeLWG.jpeg)
 
 ### Need something more advanced try ( scatter alfa )
 - If you're looking for a reliable and stable botnet that can meet your advanced needs, I would highly recommend taking a look at Scatter Alfa. Scatter Alfa has been specifically designed to provide advanced functionality and persistence over an extended period of time, making it an ideal choice for users who require persistence and stability.
-- [Learn more about scatter alfa](https://github.com/ScRiPt1337/Teardroid-phprat/blob/master/advanced.md)
+- [Learn more about scatter alfa](https://github.com/ScRiPt1337/Teardroid-phprat/blob/main/advanced.md)
 - You can buy it from => https://scatter.sellup.io/
 - Demo video available on my telegram channel => https://t.me/scatter1337
 
