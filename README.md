@@ -150,4 +150,3 @@ $ python Teardroid.py -b your_app_name
 ### Contact info
 - for paid project contact me on telegram
 - Telegram : https://t.me/script1337
-- TOX : 49ACC573168C5ABD1CEE4AACE6A52593EA157BF9AB4CAC01A4FB8F6C0C24EE76516A3DCE665A
